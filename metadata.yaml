@@ -1,0 +1,26 @@
+_repo: The-Unfolding-Life--13-A-Study-of-Development-with-Reference-to-Religious-Training_13533
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lamoreaux, Antoinette Abernethy
+    gutenberg_agent_id: '5118'
+    url: http://www.gutenberg.org/2009/agents/5118
+description: ''
+gutenberg_issued: '2004-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13533'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Child development'
+- !lcsh 'Religious education'
+- !lcsh 'Child psychology'
+title: "The Unfolding Life\r\nA Study of Development with Reference to Religious Training"
+url: http://www.gutenberg.org/ebooks/13533
